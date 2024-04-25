@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="left">🌎&nbsp;How to reach me:</h2>
+<p>
+ <a href="mailto:vatsalhirpara18@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/vatsal-hirpara-52b53b24b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VatsalHirpara18/VatsalHirpara18/output/github-contribution-grid-snake-dark.svg">
